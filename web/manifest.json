@@ -1,6 +1,6 @@
 {
-    "name": "audio_player",
-    "short_name": "audio_player",
+    "name": "play_recorder_f4rg0",
+    "short_name": "play_recorder_f4rg0",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

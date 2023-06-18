@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:record/record.dart';
 
 class AudioRecorder extends StatefulWidget {
-    final void Function(String path) onStop;
+  final void Function(String path) onStop;
 
   const AudioRecorder({super.key, required this.onStop});
 

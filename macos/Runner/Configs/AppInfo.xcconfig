@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = audio_player
+PRODUCT_NAME = play_recorder_f4rg0
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.audioPlayer
+PRODUCT_BUNDLE_IDENTIFIER = com.example.playRecorderF4rg0
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.

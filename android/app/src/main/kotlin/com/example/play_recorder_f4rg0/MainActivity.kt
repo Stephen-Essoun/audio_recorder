@@ -1,4 +1,4 @@
-package com.example.audio_player
+package com.example.play_recorder_f4rg0
 
 import io.flutter.embedding.android.FlutterActivity
 
